@@ -1,0 +1,12 @@
+.header {
+	height: 50px;
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: #eeeeee;
+}
+.header-title {
+	font-family: 'Raleway', sans-serif;
+	letter-spacing: 2px;
+}

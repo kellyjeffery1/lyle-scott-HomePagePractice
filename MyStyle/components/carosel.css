@@ -1,0 +1,26 @@
+.carousel-image {
+	height: 20vw;
+	width: 15vw;
+	text-align: center;
+	margin: 35px;
+	margin-left: 0px;
+}
+.carousel-section {
+	background-color: #eeeeee;
+
+	/* align-items: center; */
+}
+.carousel-image1 {
+	height: 20vw;
+	width: 15vw;
+	text-align: center;
+	margin: 35px;
+	margin-left: 95px;
+}
+.carousel-image2 {
+	height: 20vw;
+	width: 15vw;
+	text-align: center;
+	margin: 35px;
+	margin-left: 95px;
+}

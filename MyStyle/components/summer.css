@@ -1,0 +1,40 @@
+.summer-section {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 20vw;
+}
+.summer-text-container {
+	font-family: 'Noto Sans JP', sans-serif;
+	letter-spacing: 1px;
+	padding: 0;
+	margin: 20px 0 0px 0;
+	text-align: center;
+	line-height: 46px;
+}
+.summer-shop-now-button {
+	/* margin: 20px; */
+	background-color: #272727;
+	color: white;
+	padding: 10px;
+	font-size: 15px;
+	border: none;
+	text-transform: uppercase;
+	z-index: 7;
+	text-decoration: none;
+}
+.summer-shop-now-button:hover {
+	background-color: whitesmoke;
+	color: #272727;
+	transition: all 0.3s;
+	text-decoration: none;
+}
+.summer-title {
+	font-family: 'Noto Sans JP', sans-serif;
+	letter-spacing: 2px;
+	/* font-weight: 600; */
+}
+.summer-paragrapgh {
+	font-family: 'Raleway', sans-serif;
+	letter-spacing: 1px;
+}

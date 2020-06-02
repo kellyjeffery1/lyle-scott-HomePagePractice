@@ -1,0 +1,10 @@
+@import "components/index.css";
+html {
+	scroll-behavior: smooth;
+}
+h2 p {
+	font-family: 'Roboto', sans-serif;
+}
+body {
+	margin: 0px;
+}

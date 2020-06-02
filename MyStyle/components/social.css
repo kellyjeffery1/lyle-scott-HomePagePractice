@@ -1,0 +1,121 @@
+.social-text-container {
+	font-family: 'Noto Sans JP', sans-serif;
+	letter-spacing: 1px;
+	padding: 0;
+	margin: 20px 0 0px 0;
+	color: black;
+	text-align: center;
+	line-height: 46px;
+	margin-top: 80px;
+}
+
+.social-para {
+	font-family: 'Raleway', sans-serif;
+}
+.social-image1 {
+	height: 22vw;
+	width: 22vw;
+	margin-left: 44px;
+	margin-bottom: 53px;
+	margin-top: 35px;
+}
+.social-image2 {
+	height: 22vw;
+	width: 22vw;
+	margin-left: 20px;
+	margin-bottom: 53px;
+	margin-top: 35px;
+}
+.social-image3 {
+	height: 22vw;
+	width: 22vw;
+	margin-left: 0px;
+	margin-bottom: 53px;
+	margin-top: 35px;
+}
+.social-image4 {
+	height: 22vw;
+	width: 22vw;
+	margin-left: -25px;
+	margin-bottom: 53px;
+	margin-top: 35px;
+}
+.social-image5 {
+	height: 22vw;
+	width: 22vw;
+	margin-left: 44px;
+	margin-bottom: 53px;
+	margin-top: 35px;
+}
+.social-image6 {
+	height: 22vw;
+	width: 22vw;
+	margin-left: 20px;
+	margin-bottom: 53px;
+	margin-top: 35px;
+}
+
+.social-image8 {
+	height: 22vw;
+	width: 22vw;
+	margin-left: -25px;
+	margin-bottom: 53px;
+	margin-top: 35px;
+}
+
+.social-image:hover {
+	background-color: white;
+	color: #272727;
+	transition: all 0.3s;
+	text-decoration: none;
+}
+
+.image {
+	opacity: 1;
+	display: block;
+	width: 100%;
+	height: auto;
+	transition: .5s ease;
+	backface-visibility: hidden;
+}
+
+.middle {
+	transition: .5s ease;
+	opacity: 0;
+	position: absolute;
+	transform: translate(-50%, -50%);
+	-ms-transform: translate(-50%, -50%);
+	/* text-align: center; */
+}
+
+.mensClothing-card:hover .image {
+	opacity: 0.3;
+}
+
+.mensClothing-card:hover .middle {
+	opacity: 1;
+}
+
+.text {
+	background-color: #4caf50;
+	color: white;
+	font-size: 16px;
+	/* padding: 16px 32px; */
+}
+.shop-now-button {
+	/* margin: 20px; */
+	background-color: #272727;
+	color: white;
+	padding: 10px;
+	font-size: 15px;
+	border: none;
+	text-transform: uppercase;
+	z-index: 7;
+	text-decoration: none;
+}
+.shop-now-button:hover {
+	background-color: whitesmoke;
+	color: #272727;
+	transition: all 0.3s;
+	text-decoration: none;
+}
